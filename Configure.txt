@@ -1,0 +1,8 @@
+hmmbuild=/usr/local/bin/hmmbuild
+clustalw2=/usr/local/bin/clustalw2
+hmmsearch=/usr/local/Cellar/hmmer/3.1b2/bin/hmmsearch
+blastp=/usr/local/ncbi/blast/bin/blastp
+blastx=/usr/local/ncbi/blast/bin/blastx
+tblastn=/usr/local/ncbi/blast/bin/tblastn
+formatdb=/usr/local/ncbi/blast/bin/makeblastdb
+genewise=/usr/local/bin/genewise
